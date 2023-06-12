@@ -4,7 +4,7 @@
 
 # Author: Upkar Lidder (IBM)
 # Addtional Authors:
-# <Nando3D>
+# <fkanedev>
 
 # Input:
 # p, principal amount
